@@ -1,6 +1,9 @@
 # Soccer  
 축구와 관련된 정보들을 얻기 위한 REST API 사이드 프로젝트
 
+## 목적
+Jsoup을 활용하여 웹 페이지를 파싱해보기 위한 경험
+
 ## 개발 환경
 ***IntelliJ IDEA, Spring Boot, Maven***
 
